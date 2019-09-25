@@ -1,3 +1,3 @@
 <?php
-	define ("LAST_DAY","24");
+	define ("LAST_DAY","25");
 ?>

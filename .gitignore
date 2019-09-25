@@ -1,0 +1,7 @@
+/.idea/*.*
+config.php
+/temp/*.*
+.htaccess
+/admin/temp/*.*
+last.php
+/lang/*.*

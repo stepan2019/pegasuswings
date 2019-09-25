@@ -1,0 +1,551 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="db57a1b0-fb35-4449-a22e-7448840ee408" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/pegasuswings.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/lang/eng1.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db_backup/25_09_19__13_01_01.sql.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/lang/eng.php" beforeDir="false" afterPath="$PROJECT_DIR$/admin/lang/eng.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/052daed97abe90ac6863355469cc2d6cca93486c_0.file.user_groups.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/055d74c5f43b5bef74d120c4e9ab4d7f6937f201_0.file.footer.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/066d6dcc231ad55da776aab0f92495e82693e8de_0.file.ui.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/08405debeb22ff1cfbb6eb0cfac9dd06e48bc170_0.file.footer.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/08d89a4d6f2260bfc3a19b114f899ac9ab2c1039_0.file.footer.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/0a2c4b69df2439febfcb91536bd8ebc0c46c1057_0.file.css_editor.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/0db30005cde1e4b2b0d1390436a67de4e26a23a4_0.file.languages.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/0e3fc6cc87970e0a8ad03da33ec18f4b54d8fa9e_0.file.coupons.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/0f66408830c41c3cf447947ad7cb452fdd7811bd_0.file.header.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/11dffdd6eac69e9356bb954be7826db38d44014b_0.file.banners_settings.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/13a8d31ab88e40e8ef482a25e39de38b25d47ea3_0.file.overlay_header.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/14c1c1f7cee6250193b1e5db1757b6a3b93d64de_0.file.header.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/153d7cd93107ec46d603983fdd742a0a2203b568_0.file.seo_settings.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/167297f0824814f847adf5a986b27c39b44eb331_0.file.header.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/16d91f6c006970f75740a6b761e8d4b9682add94_0.file.edit_content.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/175b9b3a221654ce18a8933ed706dba4a8028589_0.file.overlay_footer.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/17f986c6b2d48e3b3315dca9e15ac5b301d49010_0.file.payment_settings.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/18bfa76ea01875baa9982e001ee03cf8d34e307d_0.file.footer.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/1bc4197c0a6bcf1c8356ee654a9ece9ee3708e35_0.file.header.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/1d381fc21b3b02945c30a9e9dd353c9aa0bed101_0.file.bulk_emails.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/1e5165b7ecdad4b34361235db1a289db4655f900_0.file.users_list.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/1e79550a4ea894168d05303576f48cf9f2b519a9_0.file.paginator.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/272f3a0c997a06d859733543c986c09f30141e69_0.file.add_custom_field.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/28a860b2131bc6d5904a6cc6d20e72967e7f50f7_0.file.index.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/2de0c9c131d281942617b3dc60f55c2c98a2709f_0.file.affiliates_revenues.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/2e111812439d1a727f51e4d6662067fffb412de7_0.file.sitemap.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/2e36fe3211d771dcf59c8aa413847c50078ab2be_0.file.gmap.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/2ee6fd4efdc003a6de29dc2da0abc17197efb349_0.file.templates_editor.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/2f8484132f26813331018acd95e8065c3051b734_0.file.footer.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/30bfb549e79be6b4f575da65cc1c1cbf9b125f89_0.file.images_tools.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/34efd278ebc43492e0c78ff6e6510aca6075387e_0.file.header.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/35fb14772f8b8a75bd6a4ac78dae35695cca78c8_0.file.paginator.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/3a4fac33dfe59b7e2e4b182a7b152e0cfba64a80_0.file.appearance.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/3b4c1635aea694d6fb48b57f9c597ebde4004698_0.file.add_user_subscription.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/3c15a8b62404fd231c0ab6c2239e5d40d4d09a22_0.file.affiliates_payments.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/3cda6da5f95f7486c6dc99060b6448bc07200ee0_0.file.blocked_emails.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/3d790610e6d4614abfd781992f3bc4a856c6103a_0.file.index.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/40f85d630e4620f055f5829b35daf0f74213f9cc_0.file.translate_depending.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/4257bee75a70a9f63cb0ab714ffb9ca98a74d07f_0.file.manage_banners.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/42d5e8c83e3e37f6d026f795c1e709c042b41072_0.file.index.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/462108a8e3f5a8c90964bbb03287dfcd5ba475e2_0.file.header.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/46fde0813e12d91bd8ac75becb142b1e3c05e69d_0.file.header.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/4838a43095ba5624224b8aa07589a815f5a0a76a_0.file.footer.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/487b89e937cbded72737c55a0f2f89fabc1a9e88_0.file.subscriptions.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/48dd102d3c076f6f2b999f7471cfa25aab1ac794_0.file.header.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/49e29286c0a41a9ee4736842100bb0cae0890ebf_0.file.listing_reviews.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/4aaf4108be80433e72244c4165ee5202d53577e3_0.file.add_banner.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/4bbb05086db1a8dca2cc8acf837444338a4105b3_0.file.index.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/4da3be779afb43bfa1566403ce2b22a22eeee643_0.file.footer.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/55a8477f54db95fb9c0909860208c5d856e0a187_0.file.index.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/568cf739edbdec5772730b85f00dff54cce03f32_0.file.invoice_settings.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/57369ef8d46b4d09ec9453b4986fbb3342f9b1dd_0.file.edit_listing.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/579e2cc85e31ae8b21868bc1649021422462d9cc_0.file.add_fieldset.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/58b19d942ed0ee6a5d142730bcb31246daabb64b_0.file.paginator.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/5ad6999f9d7a312886e947ba5005a2e48911d339_0.file.db_tools.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/5c7bd9cf7d169a1d68143279bdc24eb3a22d2e34_0.file.footer.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/5cdfc4390af2cd4f1bff21f01122c699fc1c568c_0.file.footer.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/5e2971e48087dbe77ce755744984b7009b3b494b_0.file.footer.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/6544e3910170f5d797c549d655aa4c750788530a_0.file.description_editor.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/6662698fa931143061bd29033985daea9d14994f_0.file.header.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/676bba5a7cfd388c874157a87969db90f6542dbb_0.file.manage_custom_pages.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/69687d2caa75d79872dc7d1d06d9d62f82f7299a_0.file.index.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/6a66aeb0ba573025f8b03e8e717d2a960696eac2_0.file.footer.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/6ab3b8e93ff109b1a149baace33a60934905934c_0.file.manage_fieldsets.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/6bb5c36ee834d3ba2e76967da7dc2a9ba5cebd88_0.file.custom_fields_form.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/6d8e767cbca5c4e35960c39ff2ad2b5fe863111e_0.file.form_includes.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/6dcaf6c10bdb2b7acadd07ea456307f61fcead51_0.file.header.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/6e95a6689fc9c36c42c1349642547fae9b51a5f8_0.file.fancybox.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/6f9179dcf33c95e4744b7bc9b4ee3899fdb28630_0.file.footer.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/70c817777f9722482c0471135814f6134926a91d_0.file.header.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/731d0cad029342d0018aab1ec2ef66427f95dc53_0.file.manage_listings.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/74d861257fbaba3973b14ae3d412ee259f4fbd85_0.file.show.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/77722b481bc9f5e9503d0344b7ec6f8266fc29d1_0.file.add_custom_page.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/790947d401faff7c5672307a31a86b2120580ac8_0.file.blocked_ips.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/7b3248d1ea14d2001e9c1b81f3a8877acf148e76_0.file.header.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/7b60564fbf97510c163606f491317c008a43df26_0.file.maintenance.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/7c8f9852db692c4c9599656c25a7acb50ba208bc_0.file.paginator.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/7de45f538b00c1b6c52bbfb5e382bd5be3ddf6cf_0.file.info_order.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/7e7697619bfe87537380cc4517b53c876780eae9_0.file.header.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/7ec1656c231e7711118aed400fd4748fea6db9ef_0.file.addgroup.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/8016a6f06b5ec2ded87d8982442ff3be50d9d904_0.file.index.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/822ebdc99cf968474494dae523886790e2c62900_0.file.change_password.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/84a5001523f3b462ca8eff0f94e66abd02da823d_0.file.edit_depending_field.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/8590fc63a7833d8fee4f93702fd6f560f476a4bd_0.file.suspend_all.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/892e745081a4eb820c9141ffb996905012089f3b_0.file.custom_fields_form_list.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/8a322aa82b579ee8a54a92bb55c8584b6fcb0cda_0.file.index.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/8c58c20cbdfbe9f8e4804e7e87e104d756a9056f_0.file.login_history.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/8d0ae45867c12b49b923d8bcbe4fe1c3e3724070_0.file.footer.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/8ff4ae31ab66bb841767d46e66446e9cf4a8153c_0.file.users_list.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/924897be46775e14c6e7de7064ac421d0edf8fec_0.file.index.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/94b7e40d0bc62f8161a8a4b3aebaf6e4e3dfa237_0.file.gmap-ro.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/96f6c2ee09a13e1a36e562776f3e08292fe32bc8_0.file.header.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/99ede256cdf9c2d864bf927dab74c88121dda921_0.file.index.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/9a4b5c915b1ed1480ae7fbbb5f68119b90ac7bbc_0.file.manage_packages.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/9b79326a5ca929cb6d67fa57d6e40a002a668696_0.file.footer.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/9c60ca2cbac3d80a6f834b6fa8349d83358be8f4_0.file.ui.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/9cc0c17003ff856a67d5b27a29711d4c9f0b8763_0.file.footer.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/9d11729c3821dc3f1956404cceec50335ff18e2d_0.file.user_fields.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/a513c1ea5f959ddbee57e2a130ec3100a0f12cb9_0.file.header.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/a699b9c9a7c93da85a465ce7cc2de8e3f5f830ca_0.file.add_category.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/a87f1f7bd6ffa213c9e5cd9e4fe215f6d76e34c5_0.file.localization.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/abc5170667796423a8a6b1ae7b46aa1477a50c8a_0.file.header.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/ac5d0d13f4411a195f70baee5ce7c2e7cc8501b1_0.file.footer.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/ac67d9fb13eaa247b8f49da6477fa16a04be0892_0.file.index.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/aed3cd3fe8d15ebcec729502abbf4e4e8a7fb538_0.file.index.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/afeeaa83a054c05b0098adc4bfbaa1d105556cec_0.file.modules.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/b028febed4f0f13c466b1a1772208a32d045b03e_0.file.import-export.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/b1e131b5cbed0e67b96ff3e2d092d341ffb307ae_0.file.extra_visibility_options.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/b28b8f2c4e562b4594e1e5d25514121859fdca5b_0.file.footer.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/b48d91f6f6852a0617bca9f6fefc3f75f756533e_0.file.js.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/b607823c523bc1815ab9a1c0ae9b55c3cdf3d28b_0.file.invoices.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/b815de11572c22cd6c32bcde12e4cbbec02f891f_0.file.index.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/b861f9bad221c6abc37713e4e631ba20dcfd6413_0.file.mails_settings.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/b8aaced9ba9b83141326b4a4226f10cd792264c1_0.file.paypal_settings.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/b9e07a886265033eb878626a8d00e073f788b945_0.file.manage_categories.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/bdb4e0c8221f87865b208e38ddf15b8c06981975_0.file.sms_gateways.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/be08e79e491c911f16a481eca067ae02069cb54b_0.file.custom_fields_form.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/be79c7ef869dd22d5c6e307314b0ac7671e4357f_0.file.overlay_footer.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/bf17164388952a2c3996b1d3af5e00371ca12d6c_0.file.overlay_header.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/bf9d30e20e25defb2b27fa3c308610f637be303f_0.file.settings.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/c0f8dda9b88c3670c18fe6ab50ce2612f9a3b35a_0.file.rss.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/c191983dcee134690a85ff4e5bd6b8e23a129eeb_0.file.mobile_settings.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/c35fbd563fba426aae2b5619effd92afbcf0843a_0.file.index.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/c9489a1ffc0d04b669a2796a91649bbfa64d6112_0.file.languages_editor.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/ccfd1a7b683d9324309f58c3ea28605fb1ff1ce6_0.file.custom_fields_form_list.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/cf62d526c6c31b8104b72e2608670f58ba396ff3_0.file.forbidden_words.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/cf929af972293b6861da283262d89506b78dfb97_0.file.index.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/cfb1d32a4bf74f65e33984b61d6e7a8fc6f6119c_0.file.footer.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/d0562ab79119b5103969b2ea7b630913b6b68f23_0.file.adduser.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/d064baa996c88d1182a131d991eb61d5821e4be2_0.file.footer.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/d21d2ebaa43b85770e174df165c7cd9d772cae96_0.file.add_coupon.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/d2f2d158b1ad57c3b54c853e3c3a45f1c31411e3_0.file.header.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/d587f3a6be6bb7f9abc66259192307697fa5b8eb_0.file.order_history.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/d67910b3ea144ef0b6993a6fac639b9e2ac2e73b_0.file.header.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/d7dec67ca4c707479dc55a98c408de328b33346e_0.file.header.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/d880e25b514a466963f9d876bcba5325825770df_0.file.index.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/d9fe14d4d4af7d2caa30586fdb5613f730a5a3ae_0.file.index.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/da21051ebdea5b1c50263b61b3f6dd93bc97b333_0.file.index.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/de1441c85615d5a9585261ca48d07a78ea68314c_0.file.gmap-autolocator.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/df25770ff5d43092d4392019db0a92ffe8a4385c_0.file.header.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/df342e8ca384184146f3535125bb188819b4e8ae_0.file.header.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/dfa256175dbc39f066c2f7452c70d0f79709bba4_0.file.footer.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/e2e14af7a8be858ca3e0688633a77bf77d2e840a_0.file.whitelist_ips.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/e5c5809ba9a9dbd84f2f8ff1b2462745025a7e18_0.file.footer.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/ea84d91d04cd89f00eeab1d044c44a79dd05f209_0.file.manage_custom_fields.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/ebf7406648d3c2c4c2689f56c87145415b58cfc6_0.file.paginator.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/ec470a2fe942d8558550322f7176a1e1f8a239a1_0.file.index.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/ef6a4d096e222c30cdd918a1667bdcce7a238b4a_0.file.edit_featured_plan.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/effee8481d7a1521f68a7e2e1c63886ad1b1ebd2_0.file.listings_settings.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/f0af7ba0e20b10c4ef512433a4ee7b22d7ae27a0_0.file.messages.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/f296d19147c3a06e1d483db1906d2f1039efecca_0.file.index.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/f2f33ed692d9a1436ecc8ae41cf68253e7e12759_0.file.footer.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/f47a822c9b028918d64b12807273887bdbbfacad_0.file.index.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/f76b1dd4d67d9d79ecf63f7feb597c6d942b7eed_0.file.footer.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/f792ff69173af209ca6b138ca988dd2d3ecc6106_0.file.new_listing.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/f80ad97d3f1e029c9795ef77854da61cd5adf5d2_0.file.mail_templates.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/f917fdce68be0e009e46e2564e1df817c8bf6792_0.file.settings.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/f99900f2eca405992fb611d190e10e429f9341bb_0.file.edit_ad_settings.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/fa7ac8fa213275034a3d90402564aea496b12596_0.file.add_rss.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/fb3a6b8fa9a89bf13337ffba14c42da26872f17a_0.file.index.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/fcf22109ecc45703392745b0e3cf30798eb9f306_0.file.header.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/fdea7afc12cf4cacaf54f8219e59bd8357efd2a0_0.file.add_package.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/ff9018ff5f7403e852716b8794692f7acd61b169_0.file.header.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/temp/fff2da400fa5daeac646b37dd44fbad2b57d0c19_0.file.index.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.php" beforeDir="false" afterPath="$PROJECT_DIR$/config.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db_backup/09_09_19__00_04_43.sql.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/last.php" beforeDir="false" afterPath="$PROJECT_DIR$/last.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sitemap/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sitemap/sitemap.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/07598808ba82d1ade315231c69053e47fb56b6d9_0.file.featured.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/08dde4235097f92744e0998c6a548f2b9a23f534_0.file.fp_tab.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/0e2e08798c1ac602978bcca8c760c65e5a05fe91_0.file.banner.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/156242009d0ff64b9a894fba95af66f7a8647d44_0.file.latest_auctions.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/1764ef0402f0092fe340e93cae4b281990b6b260_0.string.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/1b64bf6a0f606ba200d64d2e56e3901b348864dc_0.file.fp_tab.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/1e7dbde6851c8ae900eb210478414891fba1f068_0.file.refine.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/22666d65baf75fa00e7246383e4411ad652d7e29_0.file.categories.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/2e8f83799bad3c365d59d280c6ac28ada955cfaa_0.file.highlited_ads.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/30439294d0abf88537a9f532a925db768e80a18b_0.file.sn_meta.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/3718f2517946f9b2bed4e85a3c9bc41323983e6b_0.file.listings.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/392fa50a44c2b3d0fa807c033b0b0e63e6df00da_0.file.search_currencies.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/3933ecb0d82ae629f69e2bcc3b65e9fc961eb9e5_0.file.short_listing.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/44a8c1d16f56f6bf0e6c7b3615cc1e782fb38d98_0.file.fp_tab.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/5108619df76b8d331b7e75bbda75fcba9be49218_0.string.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/52f7513ffa83722b83d20de230cb1ff0279cc65b_0.file.header.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/54debc4477bee3c97d4fbcd2b3b8f5dd6ffc0583_0.file.short_listing.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/5515917b7bdf5adea42f3bfab43764f03d5c2eb8_0.file.browse_location.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/5c10b5b2cd673a0616d529aa5234b12ee7153808_0.string.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/5d42ece05112088c9472df370b7039503cc342a4_0.file.footer.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/633adc039d21d86a8267f346c53c0e01e88ec6c8_0.string.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/68964ae264df86030bdf34d5e7d7727f129b0919_0.file.listings_js.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/691810ed46ebe69fdca1b391162c0c15cba0ad1b_0.file.index_js.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/6b65e5f8a65712eb5fa7048e1524c8482b8f1e93_0.file.index.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/7548201ba16f894466d03e5d1ac0eae90d9eddcf_0.string.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/76c88f54ed7934ed9ee456651c0ac7705f4e8ec5_0.file.order_listings.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/7711016f063645b67e4715f3e88626c632ab7126_0.file.popular_ads.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/780677a5429c58f68bcf411428030c53373c43d3_0.file.header.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/86befc7e3e38d7ba23ce226d315545913b8324e0_0.file.quick-search.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/8b080f53c8fa6a3402b5a4db3b515c98bdfa9c44_0.file.paginator.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/911740461fe1e260e202779c2e1422f1a2441a18_0.file.magnific-popup.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/967b66658b05c0b3a075d5fd341bba4cdff5ef0e_0.string.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/982aac0d13a8a533e1a0f4ea1e3bfd2baff092c5_0.file.fp_tab.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/9c65804b969a6f2560cb74d1987063b424eb857b_0.file.video_ads.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/9d9f5c9a5d6e07abefbf8e761da1f345adac1363_0.file.notfound.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/9e4f5ab64c670751e7e69f4aafdeedf1410e5d38_0.file.gallery_listing.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/9e75138f8dc1ead28896d9383563aca13ee44516_0.string.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/9f2f8c4cebd2fea83c0eefffdb19b2216a51df40_0.string.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/YmFzZV9jcA==1000eng.CCH" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/YmFzZV9nbWFwX2ZpZWxkcw==0.CCH" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/YmFzZV9pbnRlcmZhY2U=eng.CCH" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/YmFzZV9sYW5ndWFnZXM=.CCH" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/YmFzZV9sYW5ndWFnZXNfbGlzdA==.CCH" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/YmFzZV9saXN0aW5nX2ZpZWxkcw==10eng.CCH" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/YmFzZV9saXN0aW5nX2ZpZWxkcw==9eng.CCH" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/YmFzZV9tZXRhX2luZm8=eng.CCH" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/YmFzZV9yZWZpbmVfZmllbGRz0eng.CCH" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/YmFzZV9yZWZpbmVfZmllbGRzX2xpc3Q=0eng.CCH" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/YmFzZV9zZWFyY2hfZmllbGRz.CCH" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/YmFzZV9zZXR0aW5ncw==.CCH" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/YmFzZV9zZXR0aW5ncw==eng.CCH" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/YmFzZV9zaG9ydF9jYXRlZ29yaWVzX2ZzZXQ=eng.CCH" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/YmFzZV9zaG9ydF9jYXRlZ29yaWVzeng.CCH" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/YmFzZV9zaG9ydF9ncm91cHM=eng.CCH" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/a640b3550b3cd0f2f2875eb2d297bf1bffea5f84_0.string.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/a7885532e459dc0218e38150cbc859cc15453c34_0.file.listings_map.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/ab14b8289277d3fc771d6df2074ce7ab7d77690d_0.file.sn_buttons.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/affbe9992f91f4399729b120a454811437b95e85_0.file.header_js.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/b12740e33ec72ad27be56219b9d29dc8bb6324d1_0.file.sn_page_plugin.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/bW9kX25ld3Nfc2V0dGluZ3M=eng.CCH" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/bW9kX2JsX2xvY2F0aW9ucw==eng.CCH" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/bW9kX2JsX3NldHRpbmdzeng.CCH" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/bW9kX2NvbW1lbnRzX3NldHRpbmdzeng.CCH" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/bW9kX2RwX3NldHRpbmdzeng.CCH" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/bW9kX2hhX3NldHRpbmdz.CCH" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/bW9kX2x2X3NldHRpbmdz.CCH" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/bW9kX2xhX3NldHRpbmdz.CCH" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/bW9kX2xjX3NldHRpbmdzeng.CCH" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/bW9kX3BhX3NldHRpbmdz.CCH" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/bW9kX3BlX3NldHRpbmdz.CCH" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/bW9kX3JhdGluZ3Nfc2V0dGluZ3M=eng.CCH" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/bW9kX3NpbWlsYXJfc2V0dGluZ3M=eng.CCH" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/bW9kX3NuX3NldHRpbmdz.CCH" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/bW9kX3RjX3NldHRpbmdzeng.CCH" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/bW9kX3ZhX3NldHRpbmdz.CCH" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/bcfaa87b8a299a50978427090d585a6d54de0f0a_0.file.save_search.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/c3BlY2lhbF91c2VyX2ZpZWxkcw==3.CCH" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/c3BlY2lhbF9saXN0aW5nX2ZpZWxkcw==9.CCH" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/c811d698c4251698e31f5c5e3b7aed3ecf4f7450_0.file.latest.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/c93830af9d70a860360d5fdee167e3ab30f4fc40_0.file.init_fb_sdk.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/cb014ce309c2be15f78b0c4ce31c9adee429dbfd_0.string.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/cdef45590181c488b04a9e4b6b28167b057b94b7_0.string.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/de30b89b6b5ca48f3fbcbcc4ca9df44ac805406e_0.file.details.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/e12bcf7fe0af86d4563b1a9010fc130ada525d22_0.file.tag_cloud.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/e17ba3a3e83d8ce1f59207b6154b98aaf1009eca_0.file.fp_tab.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/e34c7182166ec79755905debe16cb794d99033ed_0.file.stars.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/fd29b2cc3b5d44cbe71e04f5d01307796518f344_0.file.news_summary.html.php" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="13" column="2" selection-start-line="13" selection-start-column="2" selection-end-line="13" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="10" selection-start-column="10" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>$ads_settings</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/lang/eng1.php" />
+        <option value="$PROJECT_DIR$/admin/lang/eng1.php" />
+        <option value="$PROJECT_DIR$/admin/index.php" />
+        <option value="$PROJECT_DIR$/admin/include/include.php" />
+        <option value="$PROJECT_DIR$/include/include.php" />
+        <option value="$PROJECT_DIR$/classes/listings.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/admin/lang/eng.php" />
+        <option value="$PROJECT_DIR$/lang/eng.php" />
+        <option value="$PROJECT_DIR$/classes/auth.php" />
+        <option value="$PROJECT_DIR$/config.php" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/pegasuswings.iml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="952" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="pegasuswings" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pegasuswings" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/admin/lang" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\workspace\pegasuswings\admin\lang" />
+      <recent name="E:\workspace\pegasuswings" />
+      <recent name="E:\workspace\pegasuswings\lang" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="db57a1b0-fb35-4449-a22e-7448840ee408" name="Default Changelist" comment="" />
+      <created>1568993206214</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568993206214</updated>
+      <workItem from="1568993207453" duration="8038000" />
+      <workItem from="1569162789831" duration="1213000" />
+      <workItem from="1569195678526" duration="157000" />
+      <workItem from="1569375799824" duration="682000" />
+      <workItem from="1569377366939" duration="2263000" />
+      <workItem from="1569405153679" duration="869000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="13222000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26332623" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/buy_store.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="24" column="16" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lang/eng1.php" />
+    <entry file="file://$PROJECT_DIR$/admin/lang/eng1.php" />
+    <entry file="file://$PROJECT_DIR$/admin/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-308">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/include/include.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="65" lean-forward="true" selection-start-line="65" selection-end-line="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classes/common.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="235" selection-start-line="235" selection-end-line="235" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/include.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="831">
+          <caret line="61" selection-start-line="61" selection-end-line="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classes/listings.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="1491" selection-start-line="1491" selection-end-line="1491" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="611">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lang/eng.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="677">
+          <caret line="853" column="24" lean-forward="true" selection-start-line="853" selection-start-column="24" selection-end-line="853" selection-end-column="24" />
+          <folding>
+            <element signature="e#6#163#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1958">
+          <caret line="89" column="23" selection-start-line="89" selection-start-column="23" selection-end-line="89" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classes/auth.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6534">
+          <caret line="303" selection-start-line="303" selection-end-line="303" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="27" column="59" selection-start-line="27" selection-start-column="59" selection-end-line="27" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/system_tools/office 2016/productKey.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="33" lean-forward="true" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/lang/eng.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="975" lean-forward="true" selection-start-line="975" selection-end-line="975" />
+          <folding>
+            <element signature="e#181#187#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="2" selection-start-line="13" selection-start-column="2" selection-end-line="13" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="10" selection-start-column="10" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
