@@ -1,0 +1,63 @@
+<div id="quick-search" {if $self_noext=="index"}class="first-page-quick-search"{/if}>
+<div class="page_bounds">
+<form name="qsearch" id="qsearch" method="post" action="{$live_site}/listings.php">
+<div id="qs_container">
+<div class="home-button"><a href="{$live_site}/">{$lng.navbar.home}</a></div>
+	
+	<div class="qs_category qsf">
+		<select name="qs_category" id="qs_category">
+				<option value="">{$lng.search.all_categories}</option>
+				{foreach from=$categories item=v name=cat}
+				<option value="{$v.id}" {if isset($post_array.category) && $post_array.category==$v.id}selected{/if}>{$v.str}{$v.name}</option>
+				{/foreach}
+			</select>
+	</div>
+	
+	<div class="qs_keyword qsf relative">
+	<input type="text" name="qs_{$keyword_name}" id="qs_{$keyword_name}" placeholder="{$lng.search.search_for}" value="{if isset($post_array[$keyword_name]) && $post_array[$keyword_name]}{$post_array[$keyword_name]}{/if}"/>
+	<a href="javascript:;" id="remove_qs_keyword" class="close qs_delete{if !isset($post_array[$keyword_name]) || !$post_array[$keyword_name]} hidden{/if}" ></a>
+	</div>
+	
+	<div class="qs_location qsf relative">
+	<input type="text" name="qs_location" id="qs_location" placeholder="{$lng.quick_search.location}" value="{if isset($post_array.location) && $post_array.location}{$post_array.location}{/if}"/>
+	<a href="javascript:;" id="remove_qs_location" class="close qs_delete{if !isset($post_array.location) || !$post_array.location} hidden{/if}" ></a>
+	
+	</div>
+	
+	{if $ads_settings.enable_distance_search}
+	<div class="qs_distance_search qsf">
+		<select name="qs_dist" id="qs_dist" {if !isset($post_array.location) || !$post_array.location}disabled{/if}>
+			<option value="0">+&nbsp;0&nbsp;{$ads_settings.ds_measuring_unit}</option>
+			{foreach from=$ads_settings.array_ds_distances_list item=v name=dist}
+			<option value="{$v}" {if isset($post_array.dist) && $post_array.dist==$v}selected{/if}>+&nbsp;{$v}&nbsp;{$ads_settings.ds_measuring_unit}</option>
+			{/foreach}
+		</select>
+	</div>
+	{/if}
+	
+	{if $ads_settings.enable_location_autosuggest}
+	{foreach from=$ads_settings.address_components item = c key=k }
+	{if $c.field}<input type="hidden" name="qs_{$c.field}" id="qs_{$c.field}" class="location_ac_field" value="{if isset($post_array[$c.field]) && $post_array[$c.field]}{$post_array[$c.field]}{/if}">{/if}
+	{/foreach}
+	{/if}
+	
+	{if $ads_settings.enable_distance_search}
+	<input type="hidden" name="qs_lat" id="qs_lat" value="{if isset($post_array.lat) && $post_array.lat}{$post_array.lat}{/if}">
+
+	
+	<input type="hidden" name="qs_long" id="qs_long" value="{if isset($post_array.long) && $post_array.long}{$post_array.long}{/if}">
+	
+
+
+	{/if}
+<input type="text" name="id" size="6" class="defaultText" title="{$lng.listings.id}" value="{if isset($post_array.id)}{$post_array.id}{/if}"/>
+	<div class="search-button qsf"><input type="submit" name="Search" id="Search" value="{$lng.general.search}"/></div>
+</div>
+
+<div class="clearfix"></div>
+	<input type="hidden" name="order" value="date_added" />
+	<input type="hidden" name="order_way" value="desc" />
+
+</form>
+</div>{* end page_bounds *}
+</div>{* end top_search *}

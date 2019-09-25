@@ -1,0 +1,14 @@
+<?php
+	$config_db_server='localhost';
+	$config_db_server_username='pegasuswings_house';
+	$config_db_server_password='N({DD0Z_bx21';
+	$config_db_database='pegasuswings_house';
+	$config_db_charset='utf8';
+	$config_db_collation='utf8_general_ci';
+	$config_table_prefix='class_';
+	$config_live_site='https://www.pegasuswings.gr';
+	$config_abs_path='/home/pegasuswings/public_html';
+	$config_demo=0;
+	$config_debug=0;
+	$config_data_set='cars';
+?>
